@@ -1,0 +1,6 @@
+
+
+
+
+5  Utilizando combinadores CSS, selecione todos os parágrafos (<p>) que são descendentes diretos de uma <div> com a classe "container".
+
