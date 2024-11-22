@@ -4,3 +4,5 @@
 
 5  Utilizando combinadores CSS, selecione todos os parágrafos (<p>) que são descendentes diretos de uma <div> com a classe "container".
 
+6-  Descreva um cenário em que a cascata e a especificidade podem entrar em conflito, e como você resolveria esse conflito.
+
