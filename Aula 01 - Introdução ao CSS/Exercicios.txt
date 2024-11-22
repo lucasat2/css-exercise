@@ -6,3 +6,5 @@
 
 6-  Descreva um cenário em que a cascata e a especificidade podem entrar em conflito, e como você resolveria esse conflito.
 
+7 Como a herança e a cascata são aplicadas nas propriedades de estilo em CSS? Dê um exemplo específico de como uma propriedade pode ser herdada e como a cascata influencia essa herança. 
+
